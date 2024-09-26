@@ -33,26 +33,6 @@ chat_completion = client.chat.completions.create(
 
 
 
-           {
-    "role": "user",
-    "content": "Hola todos",
-},
-{
-    "role": "assistant",
-    "content": "Je ne prends que du texte en anglais.",
-},
-    {
-    "role": "user",
-    "content": "Bonjour tout le monde !",
-},
-{
-    "role": "assistant",
-    "content": "Je ne prends que du texte en anglais.",
-},
-
-
-
-
          {
             "role": "user",
             "content": user_input,
