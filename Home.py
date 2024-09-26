@@ -16,3 +16,6 @@ st.image("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSbMZFucLMvnC70v2
 
 #Sidebare
 st.sidebar.title("Ali Mouradi")
+
+#Vidéo dans la sidebar
+st.sidebar.video("https://youtu.be/VUkm6b58bMo")
