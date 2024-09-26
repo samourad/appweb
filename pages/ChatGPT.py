@@ -19,6 +19,7 @@ chat_completion = client.chat.completions.create(
          {
           "role": "system",
          "content": f"Tu es un traducteur de langue qui traduit de l'anglais vers le français."
+          },   
         {
             "role": "user",
             "content": "Iphone 13 actualité"
