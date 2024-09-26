@@ -1,4 +1,4 @@
-import streamlit as st
+mageimport streamlit as st
 st.title("Dall-E 3")
 
 #Texte
