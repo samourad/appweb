@@ -1,3 +1,3 @@
-import streamlite as st
+import streamlit as st
 
 st.title("mon formulaire")
