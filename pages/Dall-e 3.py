@@ -1,4 +1,4 @@
-mageimport streamlit as st
+import streamlit as st
 st.title("Dall-E 3")
 
 #Champ de saisi
