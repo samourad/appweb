@@ -4,7 +4,7 @@ st.title("ChatGPT-Rédacteur Web")
 
 user_input = st.text_input("Choississez une thématique")
 
-open_key = st.siedbar.text_input("Tapez une clé openAI")
+open_key = st.sidebar.text_input("Tapez une clé openAI")
 
 #Rédacteur Correction
 import os
