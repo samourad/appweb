@@ -1,9 +1,6 @@
 import streamlit as st
 st.title("Dall-E 3")
 
-#Titre
-st.title("Dall-e 3")
-
 #Texte
 st.write("Veuillez entre une description de votre texte que vous souhaitez générer")
 
