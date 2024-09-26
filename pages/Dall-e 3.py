@@ -9,10 +9,10 @@ user_input=st.text_input("tapez votre texte : ")
 
 st.write(user_input)
 
-Sidebare
+#Sidebare
 st.sidebar.text_input("Clé OpenAI")
 
-Sidebare
+#Sidebare
 st.sidebar.title("intéraction avec openAI")
 
 #Image
