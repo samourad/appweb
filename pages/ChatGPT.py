@@ -18,9 +18,7 @@ chat_completion = client.chat.completions.create(
     messages=[
          {
           "role": "system",
-         "content": f"Tu es un traducteur de langue qui traduit de l'anglais vers le français." +" Si le texte en entrée n'est pas en anglais, tu retournes la phrase : 'Je ne prends que du texte en anglais.'"
-         },
-
+         "content": f"Tu es un traducteur de langue qui traduit de l'anglais vers le français."
         {
             "role": "user",
             "content": "Iphone 13 actualité"
