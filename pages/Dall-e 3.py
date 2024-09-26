@@ -10,7 +10,7 @@ open_key=st.sidebar.text_input ("Renseignez la clé openAI")
 #interaction avec OpenAI
 from openai import OpenAI
 
-client = OpenAI(api_key=OpenAI_KEY)
+client = OpenAI(api_key=open_key)
 image = client.images.generate(
     model="dall-e-2",
     prompt=user_input,
