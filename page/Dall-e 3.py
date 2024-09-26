@@ -1,5 +1,5 @@
 import streamlit as st
-st.title("Dall-E ici")
+st.title("Dall-E 3")
 
 #Titre
 st.title("Dall-e 3")
